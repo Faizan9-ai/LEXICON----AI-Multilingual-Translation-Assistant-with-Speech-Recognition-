@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-groq
+python-dotenv
+langdetect
+gtts
+pypdf
+python-docx
+pandas
+SQLAlchemy
