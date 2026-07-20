@@ -1,5 +1,5 @@
 
-# 🌍 AI Multilingual Translation Assistant
+# 🌍 LEXICON -  AI Multilingual Translation Assistant with Speech recognition
 
 ## Overview
 
